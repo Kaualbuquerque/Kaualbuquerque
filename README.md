@@ -1,7 +1,7 @@
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Kaualbuquerque&theme=radical&mode=weekly" />
-<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaualbuquerque&show_icons=true&theme=radical&layout=compact" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Kaualbuquerque&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaualbuquerque&layout=compact&langs_count=7&theme=omni"/>
 
  </div>
  
@@ -47,6 +47,7 @@
 
 </div>&nbsp;&nbsp;
  
+![Snake animation](https://github.com/Kaualbuquerque/Kaualbuquerque/blob/output/github-contribution-grid-snake.svg)
 
   
   
