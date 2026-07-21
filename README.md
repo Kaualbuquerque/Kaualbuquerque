@@ -1,50 +1,41 @@
+# Olá, eu sou o Kauã 👋
 
-<div  align="center" style="margin-bottom:100px">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Kaualbuquerque&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaualbuquerque&layout=compact&langs_count=7&theme=omni"/>
+Desenvolvedor Fullstack de Recife, PE, com experiência prática em **React, TypeScript, Node.js e Java/Spring Boot**, além de vivência em ambiente cloud (AWS). Gosto de construir aplicações do zero — do banco de dados ao deploy — com foco em código limpo e arquitetura sólida.
 
- </div>
- 
- &nbsp;
- &nbsp;
+🎯 Atualmente buscando minha **primeira oportunidade** como desenvolvedor.
 
+---
 
-## My Skills
+## 🚀 Projetos em destaque
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+### 🤖 [AI-Dev Stack](https://github.com/Kaualbuquerque/ai-dev-stack)
+Diretório fullstack de ferramentas de IA para desenvolvedores, com sistema de votação, rankings em tempo real e painel de administração completo.
+**Stack:** Next.js 14 · TypeScript · Tailwind CSS · Java 21 · Spring Boot 4 · PostgreSQL · Docker
+🔗 [ai-dev-stack.vercel.app](https://ai-dev-stack.vercel.app)
 
+### ⏱️ [Focus Timer](https://github.com/Kaualbuquerque/focus-timer)
+Timer de estudos desktop, com histórico de sessões, gráfico semanal e estatísticas de produtividade — dados 100% locais.
+**Stack:** Electron · React 19 · TypeScript · Prisma · SQLite
 
+### 📝 [Folio](https://github.com/Kaualbuquerque/folio)
+Editor de notas desktop inspirado no Obsidian, com calendário, filtros por tag/data, chat com IA (Groq) que responde com base nas suas notas e sistema de troca de pastas (cofres).
+**Stack:** Electron · TailwindCSS · Python · FastAPI
 
-#### Studying in this moment:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+---
 
-#### Databases:
+## 🛠️ Stack principal
 
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-#### Workstation Tools:
+---
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+## 📫 Contato
 
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-
-<a href = "mailto:kaualbuquerque44@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/kau%C3%A3-albuquerque-4236a1247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.instagram.com/kaua_albquerque/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</div>&nbsp;&nbsp;
-
-![snake gif](https://github.com/Kaualbuquerque/Kaualbuquerque/blob/output/github-contribution-grid-snake.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-albuquerque-4236a1247/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Kaualbuquerque44@gmail.com)
